@@ -1,0 +1,19 @@
+{
+  "author": {
+    "name": "uripsubekti13@gmail.com"
+  },
+  "config": {
+    "port": 8007
+  },
+  "description": "React Touchable Component",
+  "files": [
+    "lib",
+    "es"
+  ],
+  "license": "MIT",
+  "main": "./lib/index",
+  "module": "./es/index",
+  "name": "rc-touchable",
+  "typings": "./lib/index.d.ts",
+  "version": "1.3.2"
+}
